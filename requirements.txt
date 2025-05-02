@@ -5,4 +5,5 @@ seaborn
 scikit-learn
 scipy
 imblearn
+joblib
 optuna
