@@ -8,3 +8,4 @@ imblearn
 joblib
 optuna
 optree
+plotly
